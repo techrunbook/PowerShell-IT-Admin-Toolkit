@@ -24,16 +24,12 @@ Run PowerShell as Administrator when required.
 
 Example:
 
-```powershell
+powershell
 .\Get-ServerHealth.ps1
 
-Inside the README, make the website link descriptive.
-
-Use:
-
-```markdown
 ## TechRunbook
 
 For detailed troubleshooting guides and infrastructure runbooks:
 
 https://techrunbook.in/
+
